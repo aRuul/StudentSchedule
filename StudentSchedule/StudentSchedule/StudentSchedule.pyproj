@@ -24,6 +24,9 @@
     <Compile Include="config.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="hbny.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="StudentSchedule.py" />
     <Compile Include="theSpider.py">
       <SubType>Code</SubType>
