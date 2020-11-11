@@ -7,4 +7,4 @@
 - 成都理工大学
 - 河北农业大学
 ### 食用方法
-将项目下载，打开config.py,按照里面的提示即可
+本项目打包版本[说明](https://shimo.im/docs/GKtW6pWkWGTp8p3Y/read)
