@@ -74,7 +74,7 @@ def GetHtml(LoginURL,URL,username,password):
     #print(html)
     return html
 
-#账号密码加密
+
 def GetPassword(username,password):
     password_md5=hashlib.md5(password.encode()).hexdigest()
     t=str(GetSign())
@@ -90,6 +90,7 @@ def GetSign():
 def mainFuction(LoginURL,URL,username,password):
     html=GetHtml(LoginURL,URL,username,password)
     return html
+
 
 
 

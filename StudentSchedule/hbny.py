@@ -4,9 +4,9 @@ import datetime
 import pandas as pd
 import numpy as np
 import re
-from StudentSchedule import setCalendar
-from StudentSchedule import setCalendarEvent
-from StudentSchedule import saveCalendarFile
+from cdut import setCalendar
+from cdut import setCalendarEvent
+from cdut import saveCalendarFile
 
 
 #将html表格转化为csv格式
@@ -75,7 +75,7 @@ def parseData(InitialDate):
                 #print('正常',day,courseTime)
 
     #保存
-    saveCalendarFile(Hbny,'test')
+    saveCalendarFile(Hbny,'hbny')
  
 
 #时间处理
@@ -105,10 +105,9 @@ def ChineseToNumber(section,classNumber):
     return classTime
 
 
-if __name__=="__main__":
+def hbnyCourse(InitialDate):
     start=time.time()
 
-    InitialDate=datetime.date(2020, 9, 7)
     parseData(InitialDate)
 
     end=time.time()
