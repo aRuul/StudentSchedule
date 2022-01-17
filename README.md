@@ -11,7 +11,7 @@
 
 ## 食用方法
 ### windows系统exe文件使用方法
-[点我下载windows打包版本](https://aru.lanzous.com/b01bulq6b)
+[点我下载windows打包版本](https://aru.lanzous.com/b01bulq6b) | [备用链接](https://objects.githubusercontent.com/github-production-release-asset-2e65be/309921127/e6fece69-68b4-46da-abb9-cb4eceeb6f13?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220117T042856Z&X-Amz-Expires=300&X-Amz-Signature=f9e62bd2bdcb250b0a48d5f6463690f698d91282c9c1ab3e6cac571b4628d4b5&X-Amz-SignedHeaders=host&actor_id=66399688&key_id=0&repo_id=309921127&response-content-disposition=attachment%3B%20filename%3DaRu_iCalendar.zip&response-content-type=application%2Foctet-stream) 
 
 [本项目版本在线使用指南](https://shimo.im/docs/GKtW6pWkWGTp8p3Y/read)
 
