@@ -16,7 +16,7 @@
 [本项目版本在线使用指南](https://shimo.im/docs/GKtW6pWkWGTp8p3Y/read)
 
 ### 直接运行代码使用方法
-1. 修改config.py文件中的7、10行代码
+1. 修改config.py文件中的8、10行代码
 ```python
 #学号 设置成你的学号
 username=''
